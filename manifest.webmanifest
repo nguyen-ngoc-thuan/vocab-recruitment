@@ -1,14 +1,12 @@
 {
-  "name": "Học 68 từ Recruitment trong 3 ngày",
+  "name": "Học 68 từ Recruitment",
   "short_name": "Vocab 3 ngày",
-  "description": "Flashcard, tự đọc tiếng Anh, chép nghĩa và kiểm tra từ vựng Recruitment.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#07111f",
   "theme_color": "#111827",
   "lang": "vi",
-  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "icon-192.png",
