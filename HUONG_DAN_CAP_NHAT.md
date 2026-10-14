@@ -1,5 +1,9 @@
-# Phiên bản 4
+# Phiên bản 5 - Hai bộ từ vựng
 
-Thêm tab Liên tưởng với 30 từ khó, phát âm, chọn ngẫu nhiên và che liên tưởng.
+- Bộ 1: Recruitment, 68 từ, chia 23 + 23 + 22.
+- Bộ 2: Daily Actions, 61 từ, chia 21 + 20 + 20.
+- Chọn bộ từ ở hộp phía trên app.
+- Tiến độ được lưu riêng cho từng bộ.
 
-Để cập nhật GitHub Pages, tải đè 5 file trong ZIP lên thư mục gốc của repository và Commit changes.
+## Cập nhật GitHub Pages
+Giải nén ZIP, vào repository vocab-recruitment, chọn Add file > Upload files, tải đè toàn bộ file, rồi Commit changes vào main.
